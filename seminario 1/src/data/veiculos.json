@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "nome": "Fiat Argo",
+    "categoria": "Econômico",
+    "preco": 120,
+    "imagem": "/src/assets/argo.jpg",
+    "disponivel": 3,
+    "assentos": 5,
+    "bagagem": 2
+  },
+  {
+    "id": 2,
+    "nome": "Jeep Compass",
+    "categoria": "SUV",
+    "preco": 220,
+    "imagem": "/src/assets/compass.jpg",
+    "disponivel": 1,
+    "assentos": 5,
+    "bagagem": 4
+  },
+  {
+    "id": 3,
+    "nome": "Chevrolet Onix",
+    "categoria": "Compacto",
+    "preco": 130,
+    "imagem": "/src/assets/onix.jpg",
+    "disponivel": 5,
+    "assentos": 5,
+    "bagagem": 3
+  },
+  {
+    "id": 4,
+    "nome": "BTR-80",
+    "categoria": "APC",
+    "preco": 530,
+    "imagem": "/src/assets/btr80.jpg",
+    "disponivel": 0,
+    "assentos": 10,
+    "bagagem": "??"
+  }
+
+]

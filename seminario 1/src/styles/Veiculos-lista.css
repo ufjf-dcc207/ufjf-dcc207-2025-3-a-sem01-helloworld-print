@@ -1,0 +1,17 @@
+.Veiculos-lista { 
+    padding:3rem 1rem; 
+    max-width:1100px; 
+    margin:0 auto; 
+    text-align:center; 
+}
+
+.Veiculos-lista h2 {
+    font-size:2rem; 
+    color:darkred; 
+    margin-bottom:2rem; 
+}
+
+.Veiculos-grid { 
+    display:grid; 
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap:1.5rem; }
