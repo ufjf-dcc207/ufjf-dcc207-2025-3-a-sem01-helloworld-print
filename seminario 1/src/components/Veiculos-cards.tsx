@@ -24,7 +24,7 @@ export default function VeiculosCard({ nome, categoria, preco, imagem, disponive
       {Disponivel ? (
         <>
           <p className="preco">R$ {preco}/dia</p>
-          <p className="disponivel">{disponivel} unidade{disponivel > 1 ? 's' : ''} disponíveis</p>
+          <p className="disponivel">{disponivel} unidade{disponivel > 1 ? 's' : ''} disponíve{disponivel > 1 ? 'is' : 'l'}</p>
           <button className="btn-secondario">Detalhes</button>
         </>
       ) : (
