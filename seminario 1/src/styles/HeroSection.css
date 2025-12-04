@@ -19,7 +19,8 @@
     border:none;
     padding:0.7rem 1.5rem;
     border-radius:8px;
-    cursor:pointer; }
+    cursor:pointer;
+ }
     
 .hero-btn:hover {
     background:rgb(224, 30, 30);
